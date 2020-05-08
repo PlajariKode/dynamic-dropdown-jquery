@@ -1,0 +1,202 @@
+[
+	{
+		"id":"1",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"0"
+	},
+	{
+		"id":"2",
+		"jurusan":"Multimedia",
+		"parent_id":"0"
+	},
+	{
+		"id":"3",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"0"
+	},
+	{
+		"id":"4",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"0"
+	},
+	{
+		"id":"5",
+		"jurusan":"Multimedia",
+		"parent_id":"1"
+	},
+	{
+		"id":"6",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"1"
+	},
+	{
+		"id":"7",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"1"
+	},
+	{
+		"id":"8",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"2"
+	},
+	{
+		"id":"9",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"2"
+	},
+	{
+		"id":"10",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"2"
+	},
+	{
+		"id":"11",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"3"
+	},
+	{
+		"id":"12",
+		"jurusan":"Multimedia",
+		"parent_id":"3"
+	},
+	{
+		"id":"13",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"3"
+	},
+	{
+		"id":"14",
+		"jurusan":"Multimedia",
+		"parent_id":"4"
+	},
+	{
+		"id":"15",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"4"
+	},
+	{
+		"id":"16",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"4"
+	},
+	{
+		"id":"17",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"5"
+	},
+	{
+		"id":"18",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"5"
+	},
+	{
+		"id":"20",
+		"jurusan":"Multimedia",
+		"parent_id":"6"
+	},
+	{
+		"id":"21",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"6"
+	},
+	{
+		"id":"22",
+		"jurusan":"Multimedia",
+		"parent_id":"7"
+	},
+	{
+		"id":"23",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"7"
+	},
+	{
+		"id":"24",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"8"
+	},
+	{
+		"id":"25",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"8"
+	},
+	{
+		"id":"26",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"9"
+	},
+	{
+		"id":"27",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"9"
+	},
+	{
+		"id":"28",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"10"
+	},
+	{
+		"id":"29",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"10"
+	},
+	{
+		"id":"30",
+		"jurusan":"Multimedia",
+		"parent_id":"11"
+	},
+	{
+		"id":"31",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"11"
+	},
+	{
+		"id":"32",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"12"
+	},
+	{
+		"id":"33",
+		"jurusan":"Akomodasi Perhotelan",
+		"parent_id":"12"
+	},
+	{
+		"id":"34",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"13"
+	},
+	{
+		"id":"35",
+		"jurusan":"Multimedia",
+		"parent_id":"13"
+	},
+	{
+		"id":"36",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"14"
+	},
+	{
+		"id":"37",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"14"
+	},
+	{
+		"id":"38",
+		"jurusan":"Teknik Kendaraan Ringan",
+		"parent_id":"15"
+	},
+	{
+		"id":"39",
+		"jurusan":"Multimedia",
+		"parent_id":"15"
+	},
+	{
+		"id":"40",
+		"jurusan":"Rekayasa Perangkat Lunak",
+		"parent_id":"16"
+	},
+	{
+		"id":"41",
+		"jurusan":"Multimedia",
+		"parent_id":"16"
+	}
+]
